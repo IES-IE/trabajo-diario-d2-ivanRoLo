@@ -1,12 +1,12 @@
-## tu nombre
+## tu nombre: Iván Rodríguez Loredo
 
-#### módulo
+#### módulo: DAM
 
-### Preguntas del día dd/mm/aa
+### Preguntas del día 10/02/2025
 
-1. Tu respuesta:
+1. Tu respuesta: En el nombre del Padre, del Hijo y del Espíritu Santo, AMÉN.
 
-2. Tu respuesta:
+2. Tu respuesta: No confirmó los archivos que quiere que se commiteen.
 
 3. Tu respuesta:
 
